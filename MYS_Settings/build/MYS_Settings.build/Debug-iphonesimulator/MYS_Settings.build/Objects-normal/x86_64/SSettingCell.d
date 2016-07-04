@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/wh15113030/Desktop/MYS_Settings/MYS_Settings/Settting/View/SSettingCell.m \
+  /Users/wh15113030/Desktop/MYS_Settings/MYS_Settings/Settting/View/SSettingCell.h \
+  /Users/wh15113030/Desktop/MYS_Settings/MYS_Settings/Settting/Model/SSettingItem.h \
+  /Users/wh15113030/Desktop/MYS_Settings/MYS_Settings/UIView+Extension.h \
+  /Users/wh15113030/Desktop/MYS_Settings/MYS_Settings/CommonDefine.h
